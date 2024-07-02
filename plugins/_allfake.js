@@ -9,7 +9,7 @@ let img = catalogo
     forwardedNewsletterMessageInfo: {
       newsletterJid: "120363206717994793@newsletter",
       serverMessageId: 100,
-      newsletterName: 'Sumi - Sakursawa Channel 🎌',
+      newsletterName: '𝑻𝒊𝒂 𝒄𝒂𝒓𝒐 🍓',
     },
 	    externalAdReply: {
 				    showAdAttribution: true,
