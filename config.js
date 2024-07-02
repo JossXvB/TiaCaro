@@ -10,11 +10,11 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['51955918117', 'Danịel 🇦🇱⁩', true],
-  ['5491122461521'],
-  ['524434703586'],
-  ['51955918117'],
-  ['5491122461521']
+  ['56938706704', 'TiaCaro 🇦🇱⁩', true],
+  ['56986469687'],
+  ['50360082744'],
+  ['56938706704'],
+  ['56938706704']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -25,10 +25,10 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "Sumi - Sakurasawa",\n     "author": "Danịel",\n   "status_bot": "active"\n }\n}'
-global.wait = '🐢 *Sumi Sakurasawa*'
-global.botname = 'Sumi - Sakurasawa'
-global.textbot = `Powered By Starlights Team`
+global.author = '{\n "bot": {\n   "name": "TiaCaroBot",\n     "author": "joss",\n   "status_bot": "active"\n }\n}'
+global.wait = '🐢 *TiaCaroBot*'
+global.botname = 'TiaCaroBot'
+global.textbot = `TiaCaroBot`
 global.listo = '*🍭 Aqui tiene*'
 global.namechannel = '【 ✯ Starlights Team - Oficial Chanel ✰ 】'
 
